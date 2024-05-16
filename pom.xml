@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gonco</groupId>
-	<artifactId>bookstore-api</artifactId>
+	<artifactId>bookstoreapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bookstore-api</name>
+	<name>bookstoreapi</name>
 	<description>An demo API to access database and demonstrate more concepts of development.</description>
 	<properties>
 		<java.version>17</java.version>
